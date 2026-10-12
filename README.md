@@ -1,4 +1,4 @@
-# Hi, I'm Jorge (George) Acosta 👋
+# Hi, I'm Jorge Acosta 👋
 
 **Data Analyst | Excel & Power BI Specialist — Engineering Background**
 Mechanical/automotive engineer (M.Sc.) turning maintenance, reliability and academic data into decisions. Open to **remote** data-analyst roles (full-time, part-time or freelance), especially in **automotive, fleet and engineering** contexts.
@@ -26,4 +26,5 @@ Mechanical/automotive engineer (M.Sc.) turning maintenance, reliability and acad
 
 ## Certifications
 - Data Analyst with Power BI — DataCamp
-- AI certifications from Anthropic
+- AI Fluency: Framework & Foundations — Anthropic
+- Claude 101 — Anthropic
